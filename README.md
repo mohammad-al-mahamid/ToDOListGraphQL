@@ -96,3 +96,14 @@ mutation{
   }
 }
 
+## TO DO Migration
+
+dotnet ef migrations add "Initial Migrations"
+
+## TO Update the Database
+
+dotnet ef database update
+
+## Path
+
+https://localhost:7262/graphQL/ 
